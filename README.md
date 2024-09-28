@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Landing Page](https://HobbyMaster.xyz/) of Hobby Master project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+This Website is a Basic Version or Initial staged website of [HobbyMaster](https://HobbyMaster.xyz/) 
+Showcasing My Projects.
 
 ## Getting Started
 
